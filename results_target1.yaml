@@ -1,0 +1,27 @@
+---
+target_1:
+  duration: 19.457
+  end: 1303.219
+  id: 1
+  start: 1283.762
+  target:
+    aim_x: 9
+    aim_y: 2
+---
+target_2:
+  duration: 29.615
+  end: 1332.924
+  id: 2
+  start: 1303.309
+  target:
+    aim_x: -9
+    aim_y: 2
+---
+target_3:
+  duration: 14.26
+  end: 1347.203
+  id: 3
+  start: 1332.943
+  target:
+    aim_x: 4
+    aim_y: 3
