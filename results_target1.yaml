@@ -1,0 +1,30 @@
+---
+target_1:
+  duration: 180.0
+  end: 3376.336
+  id: 1
+  run_out_of_time: 'True'
+  start: 3196.245
+  target:
+    aim_x: 8.0
+    aim_y: -8.0
+---
+target_2:
+  duration: 17.642
+  end: 3394.088
+  id: 2
+  run_out_of_time: 'False'
+  start: 3376.446
+  target:
+    aim_x: 3.0
+    aim_y: -2.0
+---
+target_3:
+  duration: 71.99
+  end: 3466.18
+  id: 3
+  run_out_of_time: 'False'
+  start: 3394.19
+  target:
+    aim_x: 2.0
+    aim_y: -4.0
