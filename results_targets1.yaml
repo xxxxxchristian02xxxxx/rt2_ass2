@@ -1210,3 +1210,133 @@ target_100:
     aim_x: -6.0
     aim_y: -3.0
   validity: 'True'
+---
+target_101:
+  duration: 180.0
+  end: 1542.041
+  id: 101
+  spawn_position:
+    x: 0.0
+    y: 0.0
+  start: 1361.955
+  target:
+    aim_x: -7.0
+    aim_y: -2.0
+  validity: 'False'
+---
+target_102:
+  duration: 25.192
+  end: 1567.293
+  id: 102
+  spawn_position:
+    x: -7.0
+    y: 2.0
+  start: 1542.101
+  target:
+    aim_x: 5.0
+    aim_y: 3.0
+  validity: 'True'
+---
+target_103:
+  duration: 43.077
+  end: 1610.422
+  id: 103
+  spawn_position:
+    x: 3.0
+    y: 1.0
+  start: 1567.345
+  target:
+    aim_x: 3.0
+    aim_y: -8.0
+  validity: 'True'
+---
+target_104:
+  duration: 41.664
+  end: 1652.161
+  id: 104
+  spawn_position:
+    x: -4.0
+    y: 2.0
+  start: 1610.497
+  target:
+    aim_x: 5.0
+    aim_y: -5.0
+  validity: 'True'
+---
+target_105:
+  duration: 13.04
+  end: 1665.277
+  id: 105
+  spawn_position:
+    x: -4.0
+    y: 6.0
+  start: 1652.237
+  target:
+    aim_x: -5.0
+    aim_y: 7.0
+  validity: 'True'
+---
+target_106:
+  duration: 24.715
+  end: 1690.112
+  id: 106
+  spawn_position:
+    x: 8.0
+    y: -6.0
+  start: 1665.397
+  target:
+    aim_x: 5.0
+    aim_y: 1.0
+  validity: 'True'
+---
+target_107:
+  duration: 32.508
+  end: 1722.733
+  id: 107
+  spawn_position:
+    x: 8.0
+    y: -1.0
+  start: 1690.225
+  target:
+    aim_x: -2.0
+    aim_y: 3.0
+  validity: 'True'
+---
+target_108:
+  duration: 180.0
+  end: 1902.938
+  id: 108
+  spawn_position:
+    x: -3.0
+    y: 1.0
+  start: 1722.861
+  target:
+    aim_x: -6.0
+    aim_y: -4.0
+  validity: 'False'
+---
+target_109:
+  duration: 180.0
+  end: 2083.055
+  id: 109
+  spawn_position:
+    x: -7.0
+    y: 7.0
+  start: 1902.993
+  target:
+    aim_x: -6.0
+    aim_y: -3.0
+  validity: 'False'
+---
+target_110:
+  duration: 65.549
+  end: 2148.668
+  id: 110 
+  spawn_position:
+    x: -4.0
+    y: 7.0
+  start: 2083.119
+  target:
+    aim_x: 7.0
+    aim_y: -8.0
+  validity: 'True'
